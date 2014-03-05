@@ -24,7 +24,7 @@ def make_plot(x, y, title):
 def main(THIS_DIR):
 
   if len(sys.argv) < 2:
-    print >> sys.stderr, "Usage: >> ./cpu_plot PROCESS_ID"
+    print >> sys.stderr, "Usage: >> ./cpu_plot PROCESS_NAME"
     sys.exit(1)
 
   process_id = sys.argv[1]

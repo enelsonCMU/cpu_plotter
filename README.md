@@ -13,7 +13,7 @@ From the cpu_plotter directory, record your CPU usage by calling
 
       ./monitor_cpu.sh
 
-Pick a process name to plot, and call cpu_plot using that process as an argument
+Once recording has terminated, pick a process name to plot and call cpu_plot using that process as an argument
 
       ./cpu_plot.py PROCESS_NAME
 
