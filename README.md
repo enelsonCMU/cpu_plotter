@@ -5,7 +5,7 @@
 ## To download:
 
       cd ~/DOWNLOAD_PATH
-      git clone git@nmichael.frc.ri.cmu.edu:enelson/roslauncher.git
+      git clone https://github.com/enelsonCMU/cpu_plotter.git
 
 ## Use:
 
