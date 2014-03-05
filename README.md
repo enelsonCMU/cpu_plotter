@@ -19,6 +19,6 @@ Pick a process name to plot, and call cpu_plot using that process as an argument
 
 For example, a plot of the CPU usage of process "laser_ukf" over time might look like the following
 
-![ScreenShot](https://raw.github.com/enelsonCMU/cpu_plotter/master/example.png)
+![ScreenShot](https://raw.github.com/enelsonCMU/cpu_plotter/master/plots/example.png)
 
 This plot will also be saved to the "plots" directory.
