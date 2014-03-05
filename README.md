@@ -17,7 +17,7 @@ Pick a process name to plot, and call cpu_plot using that process as an argument
 
       ./cpu_plot.py PROCESS_NAME
 
-The resulting plot of laser_ukf_slam's CPU usage over time might look like the following
+For example, a plot of the CPU usage of process "laser_ukf" over time might look like the following
 
 ![ScreenShot](https://raw.github.com/enelsonCMU/cpu_plotter/master/example.png)
 
